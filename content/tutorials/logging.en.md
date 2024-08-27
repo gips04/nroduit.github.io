@@ -1,6 +1,6 @@
----
+loreta---
 title: Logging
-weight: 550
+weight: 70
 description: How to configure application traces
 keywords: [ "log", "logging", "dicom viewer", "free dicom viewer", "open source dicom viewer", "weasis dicom viewer",  "multi-platform dicom viewer", "pacs viewer" ]
 ---
